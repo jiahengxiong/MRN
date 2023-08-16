@@ -1,2 +1,2 @@
 # MRN
-This is MRN projext for X and Y
+This is MRN project for X and Y
